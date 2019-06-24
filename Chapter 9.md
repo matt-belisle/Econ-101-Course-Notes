@@ -78,4 +78,12 @@ This is shown as the point a consumers budget line crosses its highest indiffere
 <p>The substitution effect had the consequence of giving the consumer a decrease in income given by X (allowing them to stay on the same indifference curve) to calculate the income effect we give the consumer increase the consumers income by X.  This will shift the consumers budget line outwards <strong>BUT</strong> will not change the slope of their budget line. This will change the best affordable choice to one on a different indifference curve.<br>
 As the consumers income increases they will see more of a normal good, and the income effect reinforces the substitution effect. Because they work in the same direction, we can be sure that the demand curve slopes downwards.</p>
 <h4 id="inferior-goods">Inferior Goods</h4>
+<p><em>Recall an Inferior good is a good for which demand decreases when income increases</em></p>
+<p>For an inferior good the income effect is negative.</p>
+<p>The substitution effect of a fall in price still increases the quantity demanded, but the negative income effect works in the opposite direction and offsets the substitution efect to some degree. The question is in the degree of offset.</p>
+<ul>
+<li>When negative income effect <em>equals</em> positive substitution effect, a fall in price leaves quantity bought the same</li>
+<li>When negative income effect is <em>less than</em> the positive substitution effet, a fall in price increases the quantity bought, and the demand curve still slopes down like a normal good, <strong>BUT</strong> the inferior goods demand may be less elastic than an normal good</li>
+<li>When negative income effect <em>is greater than</em> the positive substitution effect than the fall in price decreases the quantity bought and the demand curve slopes upwards. This does not happen in the real world</li>
+</ul>
 
