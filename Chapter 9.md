@@ -1,3 +1,8 @@
+---
+
+
+---
+
 <h1 id="chapter-9-possibilities-preferences-and-choices">Chapter 9 Possibilities Preferences and Choices</h1>
 <h2 id="consumption-possibilities">Consumption Possibilities</h2>
 <p>Consumption choices are limited by household income and prices. As described in chapter 8, the budget line describes the limits to a households spending choices. Any number of choices to spend a household income is known as a consumption choice</p>
