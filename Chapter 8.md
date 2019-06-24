@@ -1,8 +1,3 @@
----
-title: Chapter 8
-
----
-
 <h1 id="chapter-8-utility-and-demand">Chapter 8 Utility and Demand</h1>
 <h2 id="consumption-choices">Consumption Choices</h2>
 <p>The choices a buyer of goods makes are influenced by many factors but can be summarized by the following</p>
