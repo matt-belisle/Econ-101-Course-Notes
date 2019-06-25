@@ -56,7 +56,7 @@ We describe the relationship between output and cost with three cost concepts:
 * Total Cost
 * Marginal Cost
 * Average Cost
-* 
+
 ### Total Cost
 
 A firms total cost (TC) is the cost of *all* the factors of production it uses. We seperate this into total fixed cost (TFC) and total variable cost (TVC). TFC is the cost of the firms fixed factors, and TVC is the cost of the firms variable fastor. 
@@ -74,6 +74,7 @@ There are three average costs of production
 * Average Fixed Cost (AFC)
 * Average Variable Cost (AVC)
 * Average Total Cost (ATC)
+
 These are defined as total (fixed|variable)\* cost per unit of output 
 recall: *TC = TFC +TVC*
 to get average divide by quantity produced Q
