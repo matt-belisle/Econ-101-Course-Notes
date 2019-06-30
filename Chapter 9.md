@@ -78,7 +78,7 @@ This is shown as the point a consumers budget line crosses its highest indiffere
 <h4 id="the-substitution-effect">The Substitution Effect</h4>
 <p>The substitution effect is the effect of a change in price on the quantity bought when a consumer (hypothetically) remains indifferent between the original situation and the new one.</p>
 <p>What this means, is when the price changes keep the consumer on the same indifference curve as the previous best affordable choice, this will look like it has the effect of lowering the consumers income.</p>
-<p>The direction of the substitution never changes, when the relative price of a good falls, the consumer substitutes more of that good for the other good.</p>
+<p>The direction of the substitution never changes, when the relative price of a good falls, the consumer substitutes more of that good for the other good. It is always <strong>negative</strong></p>
 <h4 id="the-income-effect">The Income Effect</h4>
 <p>The substitution effect had the consequence of giving the consumer a decrease in income given by X (allowing them to stay on the same indifference curve) to calculate the income effect we give the consumer increase the consumers income by X.  This will shift the consumers budget line outwards <strong>BUT</strong> will not change the slope of their budget line. This will change the best affordable choice to one on a different indifference curve.<br>
 As the consumers income increases they will see more of a normal good, and the income effect reinforces the substitution effect. Because they work in the same direction, we can be sure that the demand curve slopes downwards.</p>
