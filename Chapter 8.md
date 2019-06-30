@@ -1,3 +1,11 @@
+---
+title: Chapter 8
+
+---
+
+<blockquote>
+<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
+</blockquote>
 <h1 id="chapter-8-utility-and-demand">Chapter 8 Utility and Demand</h1>
 <h2 id="consumption-choices">Consumption Choices</h2>
 <p>The choices a buyer of goods makes are influenced by many factors but can be summarized by the following</p>
@@ -34,6 +42,7 @@ More consumption generally gives more total utility</p>
 <p><strong>Marginal Utility</strong> – The change in total utility that results from a one unit increase in the quantity of the good consumed.<br>
 Marginal utility is positive but it diminished as the quantity of a good consumed increases<br>
 <em>Positive Marginal Utility</em> – The things people enjoy and want more of have a positive marginal utility, some things such as polluted air have negative marginal utility, meaning people want less of it<br>
+<strong>Note</strong> that marginal utility is equal to the slope of the total utility curve<br>
 <strong>Principle of Diminishing Marginal Utility</strong> – The tendency for marginal utility to decrease as the consumption of the good increases.</p>
 <h2 id="utility-maximizing-choices">Utility Maximizing Choices</h2>
 <p>Consumers want to get the most utility possible from their limited resources. They want to make the choice to maximize their utility. To discover this choice, consider their budget and preferences to find the point on the budget line giving the consumer the maximum attainable utility.</p>
