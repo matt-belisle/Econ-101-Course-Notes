@@ -218,7 +218,7 @@ Why, despite all the arguments against protection is trade restricted?
 ### Compensating Losers
 
 If, in total the gains from free trade exceed the losses, why don't those who gain compensate the losers?
-* they do... in NAFTa a $56 million  dollar fund was set up to support and retrain workers who lost their jobs
+* they do... in NAFTA a $56 million  dollar fund was set up to support and retrain workers who lost their jobs
 * The losers are also compensated indirectly through the normal unemployment compensation arrangements
 * The main reason full compensation is not attempted is the cost of identifying all the losers and estimating the value of their losses is enormous. It is also difficult to tell what caused them to become a loser (was it free trade or something else), furthermore, some people may at some point look like losers, but they end up being winners.
 
