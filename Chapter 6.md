@@ -2,10 +2,14 @@
 
 ## A Housing Market with a Rent Ceiling
 Housing is the largest proportion of income spent, when rents are high, or when they jump by a large amount, renters may lobby for limits on rent.
+
 A *price ceiling or price cap* is a government regulation that makes it illegal to charge a price higher than a specified level.
+
 The effects of a price ceiling depend on whether the ceiling is placed above or below the *equilibrium price*
 If it is set above, then it has no effect on the rent. This is because the force of the law and market forces are not in conflict. If it is set below equilibrium then there are powerful effects on the market. This is because the force of law and the market forces are in conflict (price ceiling attempts to prevent the price from regulating the quantities demanded and supplied).
+
 When a price ceiling is applied to a housing market it is called a *rent ceiling*. If it is set below the equilibirum it creates:
+
 1. A housing shortage
 2. Increased Search Activity
 3. A Black Market
@@ -31,19 +35,25 @@ Rent ceilings may be inefficient, but don't they achieve a fairer allocation of 
 
 According to fair rules view, anything that blocks voluntary exchange is unfair, so rent ceilings are unfair. But according to fair result view a fair outcome is one that benefits the less well off. So according to this view the fairest outcome is the one that allocates fair housing to the poorest. To see whether rent ceilings achieve this we need to consider how the market allocates scarce housing resources with a rent ceiling. 
 Blocking rent adjustments doesn't eliminate scarcity, rather it creates an even bigger challenge as it decreases the quantity of housing available. Somehow the market must ration a smaller quantity of housing to more people. 
+
 Some possible mechanisms to allocate are: 
 * Lottery --> not fair to poor as random
 * First come first serve --> allocates to people with greatest foresight not poorest
 * Discrimination --> Allows the owner to decide who gets it the housing, not the poorest
+
 
 It is tough to make and argument for rent ceilings on the basis of fairness
 
 ## A Labour Market with a Minimum Wage
 
 The labour market is the market that influences the job we get and the wages we earn. When wage rates are low, or when the fail to keep up with rising prices, labour unions may turn to governments and lobby for a higher wage rate.
+
 A government regulation that makes it illegal to charge a price lower than a specified level is called a *price floor*
+
 If the price floor is below equilibrium price, it has no effect. 
+
 If it is above equilibrium price it has a powerful effect.
+
 When a price floor is applied t labour markets it is called a minimum wage. 
 
 ### Minimum Wage Brings Unemployment
@@ -66,8 +76,11 @@ Everything you earn and most things bought are taxes. Income tax and EI are dedu
 ### Tax Incidence
 The division of the burden of a tax between buyers and sellers is *tax incidence*
 When an item is taxes, its price may rise by the full amount of the tax, by a lesser amount, or not at all. 
+
 If it rises by full -> buyer pays the tax
+
 If it rises by lesser -> both pay the tax
+
 If it doesn't rise -> sellers pay the tax
 
 ### A tax on Sellers
@@ -91,8 +104,8 @@ Nor marginal social benefit exceeds marginal social cost and the tax is ineffeic
 
 The division of the tax between buyers and sellers depends on the elasticities of demand and supply.
  
- Perfectly inelastic demand: the buyer pays the entire tax
- Perfectly elastic demand: the seller pays the entire tax
+* Perfectly inelastic demand: the buyer pays the entire tax
+* Perfectly elastic demand: the seller pays the entire tax
 
 Between these two extremes is a mixture, but the more inelastic the demand, the larger the buyer's share of the tax
 
@@ -100,8 +113,8 @@ Between these two extremes is a mixture, but the more inelastic the demand, the 
 
 To see the effect of the elasticity of supply on the division of the tax payment look at two extremes:
 
-Perfectly inelastic supply: seller pays entire tax
-Perfectly elastic supply: buyer pays entire tax
+* Perfectly inelastic supply: seller pays entire tax
+* Perfectly elastic supply: buyer pays entire tax
 
 The more elastic the supply, the larger the buyer's share of the tax
 
@@ -112,6 +125,7 @@ A tax drives a wedge between the buying price and the selling price and results 
 A tax makes the MSB exceed MSC, shrinks the producer and consumer surplus, and creates deadweight loss.
 
 With a tax, the sellers minimum supply price rises by the amount of the tax and the supply curve shifts to S + tax
+
 The tax component isnt a social cost of production, it is a transfer of resources to the government. At the new equilibrium quantity both consumer and producer surplus shrink and parts of both go to the government. Only in the extreme cases (perfectly inelastic demand, perfectly inelastic supply)  a tax does not change the quantity bought and sold so that no deadweight loss arises.
 
 ### Taxes and Fairness
@@ -123,6 +137,7 @@ Econommists propose two conflicting principles of fairness to apply to a tax sys
 #### The Benefits Principle
 
 The benefits principle is the proposition people should pay taxes equal to the benefits they receive from the services provided by the government. 
+
 This is fair as it means those who benefit most pay the most taxes
 
 #### The Ability-to-Pay Principle
@@ -142,6 +157,7 @@ These have no effect when set above the equilibrium, but profound effects when s
 * decrease in marginal cost
 * ineffeicient underproduction
 * an incentive to cheat and overproduce
+
 All of these are similar to price ceilings studied earlier.
 
 ### Subsidies
@@ -161,6 +177,7 @@ If the good were not illegal the supply and demand curve would be similar to any
 ### Penalties on Sellers
 
 If the penalty on the seller is the amount CBL, the supply of the drug will decrease to S+CBL (shift up of the supply curve as more risk is taken to supply the good)
+
 The price rises and the quantity decreases
 
 ### Penalties on Buyers
@@ -174,5 +191,9 @@ With both sellers and buyers penalized for trading in the illegal drug, both the
 
 ### Legalizing and Taxing Drugs
 An illegal good can be legalized and taxed
+
 A high enough tax rate would decrease consumption to the level that occurs when trade is illegal
+
 Arguments that extend beyond economics surround this choice.
+
+
