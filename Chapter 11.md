@@ -66,7 +66,7 @@ If MR=MC this will maximize profit, nut suppose at this quantity price is less t
 
 If the firm expects this loss to be permanent it goes out of business. If it expects this to be temporary the firm must decide whether to shut down temporarily and produce no output, or to keep producing, to make this decision the firm must compare the loss form shutting down with the loss from producing and take the action the *minimizes* its loss.
 
-####Loss Comparisons
+#### Loss Comparisons
 
 Recall:
 *Economic Loss = TFC + (AFC-P)\*Q* 
