@@ -58,11 +58,11 @@ The *Break Even point* is the point(s) in which TC = TR
  
  ### Marginal Analysis and the Supply Decision
  
-Another way to find the profit-maximizing output is to use marginal analysis, which compares marginal revenue (MR) with marginal cost (MC). As output increases, the firm's MR is constant but its MC eventually increases. If MR > MC, then the revenue from selling one more unit exceeds the cost of producing it, and increasing production will increase economic profit. If MR < MC, then the cost of producing one more unit exceeds the cost of producing it and increasing production will decrease economic profit. IF MR = MC, then the revenue from selling one more unit equals the cost of producing that unit, and economic profit is maximized! 
+Another way to find the profit-maximizing output is to use marginal analysis, which compares marginal revenue (MR) with marginal cost (MC). As output increases, the firm's MR is constant but its MC eventually increases. If MR > MC, then the revenue from selling one more unit exceeds the cost of producing it, and increasing production will increase economic profit. If MR < MC, then the cost of producing one more unit exceeds the cost of selling it and increasing production will decrease economic profit. IF MR = MC, then the revenue from selling one more unit equals the cost of producing that unit, and economic profit is maximized! 
 
 ### Temporary Shutdown Decision
 
-If MR=MC this will maximize profit, nut suppose at this quantity price is less than average total cost, in this case there is an economic loss. Maximum profit is still a loss (minimum loss), what does the firm do?
+If MR=MC this will maximize profit, now suppose at this quantity price is less than average total cost, in this case there is an economic loss. Maximum profit is still a loss (minimum loss), what does the firm do?
 
 If the firm expects this loss to be permanent it goes out of business. If it expects this to be temporary the firm must decide whether to shut down temporarily and produce no output, or to keep producing, to make this decision the firm must compare the loss form shutting down with the loss from producing and take the action the *minimizes* its loss.
 
@@ -81,7 +81,7 @@ A firm's shutdown point is the price and quantity at which it is indifferent bet
 
 ### The Firm's Supply Curve
 
-A perfectly competitive firm's supply curve shows hot its profit maximizing output varies as the market price varies, other things remaining the same. It is derived from the MC curve, and the AVC cost curves. 
+A perfectly competitive firm's supply curve shows how its profit maximizing output varies as the market price varies, other things remaining the same. It is derived from the MC curve, and the AVC cost curves. 
 
 When the price exceeds Minimum AVC, the firm maximizes profit by producing the output at which MC = Price.
 
@@ -107,7 +107,7 @@ At the break-even point the supply is perfectly elastic
 
 ### Short Run Equilibrium
 
-Market demand and short-reun market supply determine the market price and the market output, the output per firm should be equivalent.
+Market demand and short-run market supply determine the market price and the market output, the output per firm should be equivalent.
 
 ### A Change in Demand
 
@@ -183,7 +183,7 @@ Competitive firms produce the quantity that maximizes profit. We derive the firm
 
 #### Equilibrium and Efficiency
 
-Resources are used efficiently when marginal social benefit equals marginal social cost. Competitive equilibrium achieves this efficient outcome because, with no externalities, price queals marginal social benefit for consumers, and price equals marginal social cost for producers.
+Resources are used efficiently when marginal social benefit equals marginal social cost. Competitive equilibrium achieves this efficient outcome because, with no externalities, price equals marginal social benefit for consumers, and price equals marginal social cost for producers.
 
 
 
