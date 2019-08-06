@@ -2,7 +2,7 @@
 
 ## How Global Markets Work
 
-Because we trade with people from other countris, the goods and services that we as Canadians can buy and consume are not limited by what other Canadians produce. 
+Because we trade with people from other countries, the goods and services that we as Canadians can buy and consume are not limited by what other Canadians produce. 
 * Imports are goods or services bought from other countries
 * Exports are goods or services sold to other countries
 
